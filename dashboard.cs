@@ -106,5 +106,10 @@ namespace Pharmacy_Store_System
             ReportGenerator.Show();
             this.Hide();
         }
+
+        private void linkLabel5_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+
+        }
     }
 }
